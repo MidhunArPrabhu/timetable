@@ -22,7 +22,7 @@ Add your timetable
 
 Execute the program
 
-# CODE :
+## CODE :
 ```
 <!DOCTYPE html\>
 <html lang="eng">
@@ -114,5 +114,5 @@ Execute the program
   </body>
   </html>
 ```
-# OUPUT :
+## OUPUT :
 ![](output_img.png)
