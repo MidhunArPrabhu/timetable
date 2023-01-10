@@ -105,6 +105,5 @@ Execute the program
   </body>
   </html>
 ```
- OUPUT :
-
-#![Uploading Screenshot_20230109_084919.png…]()
+# OUPUT :
+![](output_img.png)
